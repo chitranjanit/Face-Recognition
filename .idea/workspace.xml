@@ -64,6 +64,12 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="23" key="CommitChangelistDialog2" timestamp="1576948874313">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="260" y="23" key="CommitChangelistDialog2/0.23.1280.732@0.23.1280.732" timestamp="1576948874313" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
