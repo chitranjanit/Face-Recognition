@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3024ac29-ed84-49c4-aa83-8881cc5c8464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camera-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myphoto.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/record.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res-change.py" afterDir="false" />
+    <list default="true" id="3024ac29-ed84-49c4-aa83-8881cc5c8464" name="Default Changelist" comment="add the base file.">
+      <change afterPath="$PROJECT_DIR$/faces-train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myphoto.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces.py" beforeDir="false" afterPath="$PROJECT_DIR$/faces.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1576943644060</updated>
     </task>
+    <task id="LOCAL-00001" summary="add the base file.">
+      <created>1576948843588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576948843589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add the base file." />
+    <option name="LAST_COMMIT_MESSAGE" value="add the base file." />
   </component>
   <component name="WindowStateProjectService">
     <state x="260" y="23" key="CommitChangelistDialog2" timestamp="1576948874313">
@@ -75,7 +83,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/faces.py</url>
-          <line>24</line>
+          <line>28</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
